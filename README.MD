@@ -11,4 +11,4 @@
 - Droid Sans Mono
 
 # Ref
-- [1]: https://zhuanlan.zhihu.com/p/36918101
+- https://zhuanlan.zhihu.com/p/36918101
